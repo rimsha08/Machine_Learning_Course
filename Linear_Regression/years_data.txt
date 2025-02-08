@@ -1,0 +1,21 @@
+                                                                   Data set
+
+Year    Salary
+----    ------
+  1      30000
+  2      35000
+  3      40000
+  4      45000
+  5      50000
+  6      55000
+  7      60000
+  8      65000
+  9      70000
+ 10      75000
+
+
+
+
+                                                                    Business Problem
+
+The business problem revolves around understanding the relationship between the number of years of experience ("Year") and the corresponding salary ("Salary"). The goal is to create a predictive model that can estimate salaries based on the number of years of experience
